@@ -22,7 +22,7 @@ body {
     font-size: 1.25rem;
     text-align: center;
     color: black;
-    background-image: url('/images/back.jpg');
+    background-image: url('../images/back.jpg');
     
     background-repeat: no-repeat;
     background-size: 100%;
@@ -80,6 +80,7 @@ body {
     margin: auto;
     padding-right: 1rem;
 }
+
 
 #about-img img {
     width: 100%;
