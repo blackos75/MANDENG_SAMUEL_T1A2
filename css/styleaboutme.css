@@ -55,14 +55,14 @@ background-repeat: no-repeat;
 
 .masthead-intro {
   margin-bottom: 0.1em;
-  font-size: 2em;
+  font-size: 1em;
   color: #ffffff;
 }
 
 .masthead-heading {
   margin-top: -0.2em;
   font-weight: bold;
-  font-size: 6em;
+  font-size: 3em;
   letter-spacing: -0.02em;
   text-transform: uppercase;
   color: #ffffff;
