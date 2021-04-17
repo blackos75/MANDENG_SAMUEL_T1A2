@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0px;
+  background-color: black;
+}
+
+#nav-top {
+  width: 40%;
+  height: 1rem;
+  font-size: 1rem;
+  text-align: right;
+  margin: 0 3rem 0 0rem;
+}
+
+#nav-top a {
+  border: 1px solid black;
+  padding: .5rem;
+  margin-left: 1rem;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
