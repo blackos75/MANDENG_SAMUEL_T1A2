@@ -83,6 +83,18 @@ body {
     min-height: 500px;
 }
 
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.project{
+    background-color: white;
+    margin: 10px;
+    min-height: 250px;
+}
+
 footer {
     width: 100%;
     text-align: center;
